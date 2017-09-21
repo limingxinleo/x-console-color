@@ -1,0 +1,19 @@
+{
+    "name": "limingxinleo/x-console-color",
+    "type": "library",
+    "license": "Mit",
+    "authors": [
+        {
+            "name": "李铭昕",
+            "email": "715557344@qq.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Xin\\": "src"
+        }
+    }
+}
