@@ -1,5 +1,6 @@
 {
     "name": "limingxinleo/x-console-color",
+    "description": "Color library for php console",
     "type": "library",
     "license": "MIT",
     "authors": [
